@@ -13,7 +13,7 @@ Below are the ways to execute this project:
  (or)
   - Open Command Prompt(CMD)
   - Navigate to project directory
-  - Then run "java -jar Dockerhub_Tests.jar" command in cmd
+  - Then run "java -jar dockerhubTests.jar" command in cmd
 
 
 (or)
